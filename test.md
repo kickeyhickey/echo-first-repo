@@ -28,4 +28,4 @@ Three back tics before and after your input will call attention to an entire sec
 
 // creating a hyperlink
 
-[google webiste](https://www.google.com/)
+[google website](https://www.google.com/)
