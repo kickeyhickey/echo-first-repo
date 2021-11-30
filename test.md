@@ -8,6 +8,7 @@ here are some awesome people in our Echo class
 - Regina
 - Samantha
 - Raul
+
 //md italics and bold
 *This is in intalics*
 **this is bold**
