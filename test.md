@@ -11,3 +11,7 @@ here are some awesome people in our Echo class
 //md italics and bold
 *This is in intalics*
 **this is bold**
+
+// highlighting
+
+I am adding code to `GitHub`
